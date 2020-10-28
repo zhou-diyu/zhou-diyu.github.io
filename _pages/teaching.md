@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 I am enthusiastic about teaching. Every quarter I teach, I have spent a significant amount of time on preparing/enhancing the teaching material and reflecting on how to 
-improve my teaching from the previous quarters. As with other TAs at UCLA, I have taken and passed [CS 495](http://web.cs.ucla.edu/classes/fall03/cs495/syllabus.html), a 
+improve my teaching from the previous quarters. Over the years, I have evolved to become an excellent TA. As with other TAs at UCLA, I have taken and passed [CS 495](http://web.cs.ucla.edu/classes/fall03/cs495/syllabus.html), a 
 TA training seminar that thoroughly covers all the essential topics on teaching a course. 
 
 My teaching philosophy is based on two key ideas:"learn by doing" and "the best way to learn is to teach" (i.e. The Feynman Technique). You can find my teaching statement [here](/file/teach-statement.pdf).
