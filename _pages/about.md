@@ -13,6 +13,11 @@ Research
 ======
 My research is in the general area of computer systems. I'm specifically interested in operating systems. My thesis is focused on building **practical low-overhead** dependability mechanisms for hypervisors, containers and server applications. The main approach involves identifying and making the tradeoff between the soundness and the overhead of the dependability mechanisms, leveraging hardware/operating system/hypervisor support. 
 
+My research statement is [here](/files/research-statement.pdf)
+
+Past Projects 
+======
+
 I have implemented [*NiLiHype*](/files/dsn18.pdf), a hypervisor resilience technique that tolerates transient hardware/software faults. *NiLiHype* recovers the hypervisor from failure by resetting it to a quiescent state that is highly likely to be valid and then retry the requests from the rest of the system. Compared to the state of the art technique that reboots the hypervisor, *NiLiHype* reduces the service interruption time during recovery from 713ms to 22ms, a factor of over 30x, while achieves nearly the same recovery success rate.
 
 [*NiLiCon*](/files/ipdps20.pdf), to the best of our knowledge, is the first container fault-tolerance mechanism that is application- and client-transparent and supports stateful applications. *NiLiCon* applies *Remus*, a widely used VM replication technique, to containers. A key implementation challenge is compared to VMs, there is much tighter coupling between the container state and the state of the underlying platform. *NiLiCon* meets this challenge with various kernel enhancements  and achieves competitive performance as *Remus*.
