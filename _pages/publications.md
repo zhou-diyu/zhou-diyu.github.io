@@ -23,7 +23,7 @@ IPDPS 2020: 34th IEEE International Parallel and Distributed Processing Symposiu
 <i class="fas fa-file-pdf" aria-hidden="true"></i> [pdf](/files/ipdps20.pdf) 
 &nbsp; <i class="fas fa-file-powerpoint"></i> [slides](/files/ipdps20.pptx)
 
-I also have one first author paper currently under review and a second in final stages of preparation
+I also have one first author paper currently under review and a second in final stages of preparation.
 
 <!---
 **HyCoR: Fault-Tolerant Replicated Containers Based on Checkpoint and Replay** \
