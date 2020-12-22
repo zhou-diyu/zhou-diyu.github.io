@@ -11,7 +11,7 @@ I obtained my Ph.D. in computer science from University of California, Los Angel
 
 Research
 ======
-My research is in the general area of computer systems. I'm specifically interested in operating systems. My thesis is focused on building **practical low-overhead** dependability mechanisms for hypervisors, containers, and server applications. The main approach involves identifying sweet spots in the design space of dependability mechanisms that balance soundness and overhead, leveraging hardware/operating system/hypervisor support. 
+My research is in the general area of computer systems. I'm specifically interested in operating systems. My thesis is focused on building **practical, low-overhead** dependability mechanisms for hypervisors, containers, and server applications. The main approach involves identifying sweet spots in the design space of dependability mechanisms that balance soundness and overhead, leveraging hardware/operating system/hypervisor support. 
 
 
 Past Projects 
