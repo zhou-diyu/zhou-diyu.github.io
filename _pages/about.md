@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I obtained my Ph.D. in computer science from University of California, Los Angeles ([UCLA](https://www.ucla.edu/)) advised by [Yuval Tamir](http://web.cs.ucla.edu/~tamir/). My research interest is in computer systems. Before coming to UCLA, I received my B.S. in computer science from [Peking University](https://www.pku.edu.cn/) in 2013.
+I obtained my Ph.D. in computer science from University of California, Los Angeles ([UCLA](https://www.ucla.edu/)) advised by [Yuval Tamir](http://web.cs.ucla.edu/~tamir/). My research interests are in computer systems. Before coming to UCLA, I received my B.S. in computer science from [Peking University](https://www.pku.edu.cn/) in 2013.
 
 Research
 ======
