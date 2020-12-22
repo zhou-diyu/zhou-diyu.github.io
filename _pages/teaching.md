@@ -6,12 +6,12 @@ author_profile: true
 ---
 I am enthusiastic about teaching and have extensive experience as a TA. Every quarter I teach, I have spent a significant amount of time on preparing/enhancing the teaching material and reflecting on how to improve my teaching from the previous quarters. 
 
-My teaching philosophy is based on two key ideas:"learn by doing" and "the best way to learn is to teach" (i.e. The Feynman Technique). You can find my teaching statement [here](/file/teach-statement.pdf).
+My teaching philosophy is based on two key ideas: "learn by doing" and "the best way to learn is to teach" (i.e., The Feynman Technique). You can find my teaching statement [here](/file/teach-statement.pdf).
 
 I have TAed the following courses:
 1. CS 111: Operating Systems Principles
 1. CS 151B: Computer Systems Architecture
-1. [CS 35L](http://web.cs.ucla.edu/classes/winter20/cs35L/): Software Construction Laboratory, a lab course that covers how to use popular Linux software (e.g. gcc, emacs)
+1. [CS 35L](http://web.cs.ucla.edu/classes/winter20/cs35L/): Software Construction Laboratory, a lab course that covers how to use popular Linux software (e.g., gcc, emacs)
 
 <!---
 You can find **all** of my teaching evaluation below. It shows how I have evolved to be an excellent TA over years! 
