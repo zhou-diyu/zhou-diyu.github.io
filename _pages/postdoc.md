@@ -39,6 +39,6 @@ Under preparation \
 **Practical Dependable Systems with OS/Hypervisor Support** \
 <ins>Diyu Zhou</ins> \
 Ph.D. thesis \
-<i class="fas fa-file-pdf" aria-hidden="true"></i> [paper](/files/thesis.pdf) 
+<i class="fas fa-file-pdf" aria-hidden="true"></i> [thesis](/files/thesis.pdf) 
 &nbsp; <i class="fas fa-file-powerpoint"></i> [defense slides](/files/defense.pptx)
 
