@@ -36,7 +36,7 @@ IPDPS 2020: 34th IEEE International Parallel and Distributed Processing Symposiu
 Under preparation \
 <i class="fas fa-file-pdf" aria-hidden="true"></i> [paper](/files/hycor.pdf) 
 
-**Practical Dependable Systems with OS/Hypervisor Support**
+**Practical Dependable Systems with OS/Hypervisor Support** \
 <ins>Diyu Zhou</ins> \
 Ph.D. thesis \
 <i class="fas fa-file-pdf" aria-hidden="true"></i> [paper](/files/thesis.pdf) 
