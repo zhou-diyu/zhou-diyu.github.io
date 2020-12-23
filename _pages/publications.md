@@ -26,7 +26,7 @@ IPDPS 2020: 34th IEEE International Parallel and Distributed Processing Symposiu
 **Practical Dependable Systems with OS/Hypervisor Support** \
 <ins>Diyu Zhou</ins> \
 Ph.D. Thesis \
-<i class="fas fa-file-pdf" aria-hidden="true"></i> [paper](/files/thesis.pdf) 
+<i class="fas fa-file-pdf" aria-hidden="true"></i> [thesis](/files/thesis.pdf) 
 &nbsp; <i class="fas fa-file-powerpoint"></i> [defense slides](/files/defense.pptx)
 
 I also have two first-author papers that are currently under preparation for submission. 
