@@ -49,19 +49,19 @@ References
 Associate Professor \
 Computer Science Department, University of California, Los Angeles \
 http://web.cs.ucla.edu/~tamir/ \
-tamir@cs.ucla.edu \
+tamir@cs.ucla.edu 
 
 **Songwu Lu** \
 Professor \
 Computer Science Department, University of California, Los Angeles \
 http://web.cs.ucla.edu/~slu/ \
-slu@cs.ucla.edu \
+slu@cs.ucla.edu 
 
 
 **George Varghese** \
 Chancellor's Professor \
 Computer Science Department, University of California, Los Angeles \
 https://web.cs.ucla.edu/~varghese/ \
-varghese@cs.ucla.edu \
+varghese@cs.ucla.edu 
 
 
