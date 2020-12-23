@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Postdoc"
+permalink: /postdoc/
 author_profile: true
 ---
 **Fast Hypervisor Recovery Without Reboot** \
@@ -22,8 +22,6 @@ Micro 2019: ACM/IEEE 52nd Annual Symposium on Microarchitecture \
 IPDPS 2020: 34th IEEE International Parallel and Distributed Processing Symposium \
 <i class="fas fa-file-pdf" aria-hidden="true"></i> [paper](/files/ipdps20.pdf) 
 &nbsp; <i class="fas fa-file-powerpoint"></i> [slides](/files/ipdps20.pptx)
-
-I also have one first-author paper that is currently under review and a second one that is in the final stages of preparation.
 
 <!---
 **HyCoR: Fault-Tolerant Replicated Containers Based on Checkpoint and Replay** \
