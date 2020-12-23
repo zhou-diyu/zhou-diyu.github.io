@@ -1,9 +1,17 @@
 ---
 layout: archive
-title: "Postdoc"
 permalink: /postdoc/
 author_profile: true
 ---
+
+Hi and welcome to my "secrect" webpage for post-doc applications :-)
+
+**[Resume](/files/resume.pdf)** \
+**[Research Summary](/files/research-summary.pdf)** 
+
+
+Publications
+======
 **Fast Hypervisor Recovery Without Reboot** \
 <ins>Diyu Zhou</ins> and Yuval Tamir \
 DSN 2018:  48th IEEE/IFIP International Conference on Dependable Systems and Networks \
@@ -23,10 +31,14 @@ IPDPS 2020: 34th IEEE International Parallel and Distributed Processing Symposiu
 <i class="fas fa-file-pdf" aria-hidden="true"></i> [paper](/files/ipdps20.pdf) 
 &nbsp; <i class="fas fa-file-powerpoint"></i> [slides](/files/ipdps20.pptx)
 
-<!---
 **HyCoR: Fault-Tolerant Replicated Containers Based on Checkpoint and Replay** \
 <ins>Diyu Zhou</ins> and Yuval Tamir \
-Under Review for NSDI 2021
--->
+Under preparation
+<i class="fas fa-file-pdf" aria-hidden="true"></i> [paper](/files/hycor.pdf) 
 
+**Practical Dependable Systems with OS/Hypervisor Support**
+<ins>Diyu Zhou</ins>
+Ph.D. thesis
+<i class="fas fa-file-pdf" aria-hidden="true"></i> [paper](/files/thesis.pdf) 
+&nbsp; <i class="fas fa-file-powerpoint"></i> [defense slides](/files/defense.pptx)
 
