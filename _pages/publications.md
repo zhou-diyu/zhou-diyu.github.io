@@ -23,7 +23,13 @@ IPDPS 2020: 34th IEEE International Parallel and Distributed Processing Symposiu
 <i class="fas fa-file-pdf" aria-hidden="true"></i> [paper](/files/ipdps20.pdf) 
 &nbsp; <i class="fas fa-file-powerpoint"></i> [slides](/files/ipdps20.pptx)
 
-I also have one first-author paper that is currently under review and a second one that is in the final stages of preparation.
+**Practical Dependable Systems with OS/Hypervisor Support** \
+<ins>Diyu Zhou</ins> \
+Ph.D. Thesis \
+<i class="fas fa-file-pdf" aria-hidden="true"></i> [paper](/files/thesis.pdf) 
+&nbsp; <i class="fas fa-file-powerpoint"></i> [defense slides](/files/defense.pptx)
+
+I also have two first-author papers that are currently under preparation for submission. 
 
 <!---
 **HyCoR: Fault-Tolerant Replicated Containers Based on Checkpoint and Replay** \
