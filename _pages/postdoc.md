@@ -4,8 +4,6 @@ permalink: /postdoc/
 author_profile: true
 ---
 
-Hi and welcome to my "secrect" webpage for post-doc applications. :-)
-
 **[Resume](/files/resume.pdf)** \
 **[Research Summary](/files/research-summary.pdf)** 
 
