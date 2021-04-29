@@ -29,8 +29,6 @@ Ph.D. Thesis \
 <i class="fas fa-file-pdf" aria-hidden="true"></i> [thesis](/files/thesis.pdf) 
 &nbsp; <i class="fas fa-file-powerpoint"></i> [defense slides](/files/defense.pptx)
 
-I also have two first-author papers that are currently in preparation for submission. 
-
 <!---
 **HyCoR: Fault-Tolerant Replicated Containers Based on Checkpoint and Replay** \
 <ins>Diyu Zhou</ins> and Yuval Tamir \
