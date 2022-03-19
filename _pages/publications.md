@@ -4,6 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+\* denotes equal contribution
+
 **Fast Hypervisor Recovery Without Reboot** \
 <ins>Diyu Zhou</ins> and Yuval Tamir \
 DSN 2018:  48th IEEE/IFIP International Conference on Dependable Systems and Networks \
@@ -28,6 +30,15 @@ IPDPS 2020: 34th IEEE International Parallel and Distributed Processing Symposiu
 Ph.D. Thesis \
 <i class="fas fa-file-pdf" aria-hidden="true"></i> [thesis](/files/thesis.pdf) 
 &nbsp; <i class="fas fa-file-powerpoint"></i> [defense slides](/files/defense.pptx)
+
+**Odinfs: Scaling PM Performance with Opportunistic Delegation** \
+<ins>Diyu Zhou</ins>, Yuchen Qian, Vishal Gupta, Zhifei Yang, Changwoo Min, Sanidhya Kashyap \
+OSDI 2022: 16th USENIX Symposium on Operating Systems Design and Implementation 
+
+**Application-Informed Kernel Synchronization Primitives** \
+Sujin Park*, <ins>Diyu Zhou*</ins>, Yuchen Qian, Irina Calciu, Taesoo Kim, Sanidhya Kashyap \
+OSDI 2022: 16th USENIX Symposium on Operating Systems Design and Implementation 
+
 
 <!---
 **HyCoR: Fault-Tolerant Replicated Containers Based on Checkpoint and Replay** \
