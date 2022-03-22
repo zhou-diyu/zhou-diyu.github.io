@@ -4,7 +4,9 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+<!---
 \* denotes equal contribution
+-->
 
 **Fast Hypervisor Recovery Without Reboot** \
 <ins>Diyu Zhou</ins> and Yuval Tamir \
@@ -35,10 +37,11 @@ Ph.D. Thesis \
 <ins>Diyu Zhou</ins>, Yuchen Qian, Vishal Gupta, Zhifei Yang, Changwoo Min, Sanidhya Kashyap \
 OSDI 2022: 16th USENIX Symposium on Operating Systems Design and Implementation 
 
+<!---
 **Application-Informed Kernel Synchronization Primitives** \
 Sujin Park*, <ins>Diyu Zhou*</ins>, Yuchen Qian, Irina Calciu, Taesoo Kim, Sanidhya Kashyap \
 OSDI 2022: 16th USENIX Symposium on Operating Systems Design and Implementation 
-
+-->
 
 <!---
 **HyCoR: Fault-Tolerant Replicated Containers Based on Checkpoint and Replay** \
