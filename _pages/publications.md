@@ -33,20 +33,18 @@ Ph.D. Thesis \
 <i class="fas fa-file-pdf" aria-hidden="true"></i> [thesis](/files/thesis.pdf) 
 &nbsp; <i class="fas fa-file-powerpoint"></i> [defense slides](/files/defense.pptx)
 
+**RRC: Responsive Replicated Containers** \
+<ins>Diyu Zhou</ins> and Yuval Tamir \
+ATC 2022: 2022 USENIX Annual Technical Conference 
+
 **Odinfs: Scaling PM Performance with Opportunistic Delegation** \
-<ins>Diyu Zhou</ins>, Yuchen Qian, Vishal Gupta, Zhifei Yang, Changwoo Min, Sanidhya Kashyap \
+<ins>Diyu Zhou</ins>, Yuchen Qian, Vishal Gupta, Zhifei Yang, Changwoo Min, and Sanidhya Kashyap \
 OSDI 2022: 16th USENIX Symposium on Operating Systems Design and Implementation 
 
 <!---
 **Application-Informed Kernel Synchronization Primitives** \
 Sujin Park*, <ins>Diyu Zhou*</ins>, Yuchen Qian, Irina Calciu, Taesoo Kim, Sanidhya Kashyap \
 OSDI 2022: 16th USENIX Symposium on Operating Systems Design and Implementation 
--->
-
-<!---
-**HyCoR: Fault-Tolerant Replicated Containers Based on Checkpoint and Replay** \
-<ins>Diyu Zhou</ins> and Yuval Tamir \
-Under Review for NSDI 2021
 -->
 
 
