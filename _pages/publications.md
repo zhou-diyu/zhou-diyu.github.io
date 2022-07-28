@@ -42,7 +42,7 @@ Ph.D. Thesis \
 **Odinfs: Scaling PM Performance with Opportunistic Delegation** \
 <ins>Diyu Zhou</ins>, Yuchen Qian, Vishal Gupta, Zhifei Yang, Changwoo Min, and Sanidhya Kashyap \
 16th USENIX Symposium on Operating Systems Design and Implementation (OSDI '22) \
-<i class="fas fa-file-pdf" aria-hidden="true"></i> [paper](/files/odinfs-osdi22.pdf) \
+<i class="fas fa-file-pdf" aria-hidden="true"></i> [paper](/files/odinfs-osdi22.pdf) 
 &nbsp; <i class="fas fa-file-powerpoint"></i> [slides](/files/odinfs-osdi22.pptx)
 
 <!---
