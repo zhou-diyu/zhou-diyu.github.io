@@ -37,12 +37,14 @@ Ph.D. Thesis \
 <ins>Diyu Zhou</ins> and Yuval Tamir \
 2022 USENIX Annual Technical Conference (ATC '22) \
 <i class="fas fa-file-pdf" aria-hidden="true"></i> [paper](/files/rrc-atc22.pdf) 
+&nbsp; <i class="fab fa-youtube"></i> [talk](https://www.youtube.com/watch?v=j2X63sqpDxk)
 &nbsp; <i class="fas fa-file-powerpoint"></i> [slides](/files/rrc-atc22.pptx)
 
 **Odinfs: Scaling PM Performance with Opportunistic Delegation** \
 <ins>Diyu Zhou</ins>, Yuchen Qian, Vishal Gupta, Zhifei Yang, Changwoo Min, and Sanidhya Kashyap \
 16th USENIX Symposium on Operating Systems Design and Implementation (OSDI '22) \
 <i class="fas fa-file-pdf" aria-hidden="true"></i> [paper](/files/odinfs-osdi22.pdf) 
+&nbsp; <i class="fab fa-youtube"></i> [talk](https://www.youtube.com/watch?v=MRy703zmdL8)
 &nbsp; <i class="fas fa-file-powerpoint"></i> [slides](/files/odinfs-osdi22.pptx)
 
 <!---
