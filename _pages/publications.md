@@ -47,6 +47,12 @@ Ph.D. Thesis \
 &nbsp; <i class="fab fa-youtube"></i> [talk](https://www.youtube.com/watch?v=MRy703zmdL8)
 &nbsp; <i class="fas fa-file-powerpoint"></i> [slides](/files/odinfs-osdi22.pptx)
 
+**Application-Informed Kernel Synchronization Primitives** \
+Sujin Park, <ins>Diyu Zhou</ins>, Yuchen Qian, Irina Calciu, Taesoo Kim, and Sanidhya Kashyap \
+16th USENIX Symposium on Operating Systems Design and Implementation (OSDI '22) \
+<i class="fas fa-file-pdf" aria-hidden="true"></i> [paper](/files/syncord-osdi22.pdf) 
+
+
 <!---
 **Application-Informed Kernel Synchronization Primitives** \
 Sujin Park*, <ins>Diyu Zhou*</ins>, Yuchen Qian, Irina Calciu, Taesoo Kim, Sanidhya Kashyap \
