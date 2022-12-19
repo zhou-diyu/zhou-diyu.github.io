@@ -15,9 +15,6 @@ Research
 ======
 My research is in the general area of computer systems. I'm specifically interested in operating systems, concurrency, storage systems, virtualization, and dependable computing. 
 
-My Ph.D. thesis is focused on building **practical, low-overhead** dependability mechanisms (fault-tolerance mechanisms and a debugging tool) for hypervisors, containers, and server applications. The approach involves identifying sweet spots in the design space of dependability mechanisms that balance soundness and overhead, leveraging hardware/operating system/hypervisor support.
-
-
 
 
 
