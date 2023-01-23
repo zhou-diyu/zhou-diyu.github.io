@@ -45,7 +45,7 @@ Ph.D. Thesis \
 
 **PUSh: Data Race Detection Based on Hardware-Supported Prevention of Unintended Sharing** \
 <ins>Diyu Zhou</ins> and Yuval Tamir \
-ACM/IEEE 52nd Annual Symposium on Microarchitecture (Micro '19)\
+ACM/IEEE 52nd Annual Symposium on Microarchitecture (MICRO '19) \
 <i class="fas fa-file-pdf" aria-hidden="true"></i> [paper](/files/push-micro19.pdf) 
 &nbsp; <i class="fab fa-youtube"></i> [lightning talk](https://www.youtube.com/watch?v=O-V7_GvdpW8)
 &nbsp; <i class="fas fa-file-powerpoint"></i> [slides](/files/push-micro19.pptx)
