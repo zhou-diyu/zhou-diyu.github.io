@@ -5,8 +5,8 @@ author_profile: true
 ---
 
 **[CV](/files/cv_dyz.pdf)** \
-**[Research statement](/files/rs_dyz.pdf)** 
-**[Teaching statement](/files/ts_dyz.pdf)** 
+**[Research statement](/files/rs_dyz.pdf)** \
+**[Teaching statement](/files/ts_dyz.pdf)**  \
 **[Diversity statement](/files/ts_dyz.pdf)** 
 
 ## Representative Publications 
