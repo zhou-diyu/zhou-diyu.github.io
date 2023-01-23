@@ -19,7 +19,12 @@ I am a postdoctoral scholar in School of Computer and Communication Sciences (IC
 
 Prior to EPFL, I obtained my Ph.D. in computer science in December 2020 from University of California, Los Angeles ([UCLA](https://www.ucla.edu/)) advised by Prof. [Yuval Tamir](http://web.cs.ucla.edu/~tamir/). Before coming to UCLA, I received my B.S. in computer science from [Peking University](https://www.pku.edu.cn/) in 2013.
 
+<!---
 :exclamation:  I am currently applying for tenure-track assistant professor positions [CV](/files/cv_dyz.pdf) :exclamation:
+-->
+
+<span style="color:red">some **I am currently applying for tenure-track assistant professor positions [CV](/files/cv_dyz.pdf)** text</span>
+
 
 Research
 ======
