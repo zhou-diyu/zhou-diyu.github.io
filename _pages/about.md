@@ -13,7 +13,7 @@ redirect_from:
 I am currently applying for tenure-track assistant professor positions
 -->
 
-<span style="color:red"> **I am currently applying for tenure-track assistant professor positions [CV](/files/cv_dyz.pdf)** </span>
+<span style="color:red"> **I am currently applying for tenure-track assistant professor positions. Please reach out if you are hiring! [CV](/files/cv_dyz.pdf)** </span>
 
 I am a postdoctoral scholar in School of Computer and Communication Sciences (IC) at École Polytechnique Fédérale de Lausanne ([EPFL](https://www.epfl.ch/en/)) hosted by Prof. [Sanidhya Kashyap](https://sanidhya.github.io/). 
 
