@@ -8,9 +8,14 @@ author_profile: true
 \* denotes equal contribution
 -->
 
+**Ship your Critical Section, Not Your Data: Enabling Transparent Delegation with TCLOCKS** \
+Vishal Gupta, Kumar Kartikeya Dwivedi, Yugesh Kothari, Yueyang Pan, <ins>Diyu Zhou</ins>, and Sanidhya Kashyap \
+17th USENIX Symposium on Operating Systems Design and Implementation (OSDI '23) 
+
 **TENET: Memory Safe and Fault tolerant Persistent Transactional Memory** \
 R. Madhava Krishnan, <ins>Diyu Zhou</ins>, Wook-Hee Kim, Sudarsun Kannan, Sanidhya Kashyap, and Changwoo Min \
-21st USENIX Conference on File and Storage Technologies (FAST '23)
+21st USENIX Conference on File and Storage Technologies (FAST '23) \
+<i class="fas fa-file-pdf" aria-hidden="true"></i> [paper](/files/tenet-fast23.pdf) 
 
 **Odinfs: Scaling PM Performance with Opportunistic Delegation** \
 <ins>Diyu Zhou</ins>, Yuchen Qian, Vishal Gupta, Zhifei Yang, Changwoo Min, and Sanidhya Kashyap \
