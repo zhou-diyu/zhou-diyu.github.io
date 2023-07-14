@@ -8,6 +8,10 @@ author_profile: true
 \* denotes equal contribution
 -->
 
+**Enabling High-Performance and Secure Userspace NVM File Systems with the Trio Architecture** \
+<ins>Diyu Zhou</ins>, Vojtech Aschenbrenner, Tao Lyu, Jian Zhang, Sudarsun Kannan, and Sanidhya Kashyap \
+29th ACM Symposium on Operating Systems Principles (SOSP '23) 
+
 **Ship your Critical Section, Not Your Data: Enabling Transparent Delegation with TCLOCKS** \
 Vishal Gupta, Kumar Kartikeya Dwivedi, Yugesh Kothari, Yueyang Pan, <ins>Diyu Zhou</ins>, and Sanidhya Kashyap \
 17th USENIX Symposium on Operating Systems Design and Implementation (OSDI '23) 
