@@ -14,7 +14,8 @@ author_profile: true
 
 **Ship your Critical Section, Not Your Data: Enabling Transparent Delegation with TCLOCKS** \
 Vishal Gupta, Kumar Kartikeya Dwivedi, Yugesh Kothari, Yueyang Pan, <ins>Diyu Zhou</ins>, and Sanidhya Kashyap \
-17th USENIX Symposium on Operating Systems Design and Implementation (OSDI '23) 
+17th USENIX Symposium on Operating Systems Design and Implementation (OSDI '23) \
+<i class="fas fa-file-pdf" aria-hidden="true"></i> [paper](/files/tclocks-osdi23.pdf) 
 
 **TENET: Memory Safe and Fault tolerant Persistent Transactional Memory** \
 R. Madhava Krishnan, <ins>Diyu Zhou</ins>, Wook-Hee Kim, Sudarsun Kannan, Sanidhya Kashyap, and Changwoo Min \
