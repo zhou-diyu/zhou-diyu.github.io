@@ -8,6 +8,10 @@ author_profile: true
 \* denotes equal contribution
 -->
 
+**Transparent Scaling of Single-Threaded Software Network Functions** \
+Lei Yan, Yueyang Pan, <ins>Diyu Zhou</ins>, Sanidhya Kashyap, and George Candea \
+19th ACM European Conference on Computer Systems (EuroSys '24) 
+
 **Enabling High-Performance and Secure Userspace NVM File Systems with the Trio Architecture** \
 <ins>Diyu Zhou</ins>, Vojtech Aschenbrenner, Tao Lyu, Jian Zhang, Sudarsun Kannan, and Sanidhya Kashyap \
 29th ACM Symposium on Operating Systems Principles (SOSP '23) 

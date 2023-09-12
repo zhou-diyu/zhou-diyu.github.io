@@ -13,7 +13,9 @@ redirect_from:
 I am currently applying for tenure-track assistant professor positions
 -->
 
-<span style="color:red"> **I am currently applying for tenure-track assistant professor positions. Please reach out if you are hiring! [CV](/files/cv_dyz.pdf)** </span>
+<span style="color:red"> **I will join the CS department of Peking University as an Assistant Professor in Fall 2024. 
+Feel free to reach out if you are interested in building systems together!**
+</span>
 
 I am a postdoctoral scholar in School of Computer and Communication Sciences (IC) at École Polytechnique Fédérale de Lausanne ([EPFL](https://www.epfl.ch/en/)) hosted by Prof. [George Candea](https://dslab.epfl.ch/people/candea/). Before that, I worked with Prof. [Sanidhya Kashyap](https://sanidhya.github.io/). 
 
