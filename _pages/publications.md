@@ -15,7 +15,7 @@ Lei Yan, Yueyang Pan, <ins>Diyu Zhou</ins>, Sanidhya Kashyap, and George Candea 
 **Enabling High-Performance and Secure Userspace NVM File Systems with the Trio Architecture** \
 <ins>Diyu Zhou</ins>, Vojtech Aschenbrenner, Tao Lyu, Jian Zhang, Sudarsun Kannan, and Sanidhya Kashyap \
 29th ACM Symposium on Operating Systems Principles (SOSP '23) \
-*Best Paper Award!* \
+<span style="color:red"> *Best Paper Award!* </span> \
 <i class="fas fa-file-pdf" aria-hidden="true"></i> [paper](/files/trio-sosp23.pdf) 
 &nbsp; <i class="fas fa-file-powerpoint"></i> [slides](/files/trio-sosp23.pptx)
 
