@@ -8,9 +8,15 @@ author_profile: true
 \* denotes equal contribution
 -->
 
+**Taming Hot Bloat Under Virtualization with HugeScope** \
+Chuandong Li, Sai Sha, Yangqing Zeng, Xiran Yang, Yingwei Luo, Xiaolin Wang, Zhenlin Wang, 
+<ins> Diyu Zhou </ins> \
+2024 USENIX Annual Technical Conference (ATC '24) 
+
 **Transparent Multicore Scaling of Single-Threaded Network Functions** \
 Lei Yan, Yueyang Pan, <ins>Diyu Zhou</ins>, George Candea, and Sanidhya Kashyap \
-19th ACM European Conference on Computer Systems (EuroSys '24) 
+19th ACM European Conference on Computer Systems (EuroSys '24)\
+<i class="fas fa-file-pdf" aria-hidden="true"></i> [paper](/files/nfos-eurosys24.pdf)
 
 **Enabling High-Performance and Secure Userspace NVM File Systems with the Trio Architecture** \
 <ins>Diyu Zhou</ins>, Vojtech Aschenbrenner, Tao Lyu, Jian Zhang, Sudarsun Kannan, and Sanidhya Kashyap \
