@@ -10,7 +10,7 @@ author_profile: true
 
 **Taming Hot Bloat Under Virtualization with HugeScope** \
 Chuandong Li, Sai Sha, Yangqing Zeng, Xiran Yang, Yingwei Luo, Xiaolin Wang, Zhenlin Wang, 
-<ins> Diyu Zhou </ins> \
+and <ins> Diyu Zhou </ins> \
 2024 USENIX Annual Technical Conference (ATC '24) 
 
 **Transparent Multicore Scaling of Single-Threaded Network Functions** \
