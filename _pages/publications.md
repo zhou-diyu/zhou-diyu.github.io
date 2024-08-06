@@ -8,10 +8,15 @@ author_profile: true
 \* denotes equal contribution
 -->
 
+**Practical Verification of System-Software Components Written in Standard C** \
+Can Cebeci, Yonghao Zou, <ins> Diyu Zhou </ins>, George Candea, and Clément Pit-Claudel \
+30th ACM Symposium on Operating Systems Principles (SOSP '24)
+
 **Taming Hot Bloat Under Virtualization with HugeScope** \
 Chuandong Li, Sai Sha, Yangqing Zeng, Xiran Yang, Yingwei Luo, Xiaolin Wang, Zhenlin Wang, 
 and <ins> Diyu Zhou </ins> \
-2024 USENIX Annual Technical Conference (ATC '24) 
+2024 USENIX Annual Technical Conference (ATC '24) \
+<i class="fas fa-file-pdf" aria-hidden="true"></i> [paper](/files/hugescope-atc24.pdf)
 
 **Transparent Multicore Scaling of Single-Threaded Network Functions** \
 Lei Yan, Yueyang Pan, <ins>Diyu Zhou</ins>, George Candea, and Sanidhya Kashyap \
