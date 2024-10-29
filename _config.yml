@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Diyu Zhou"
 title_separator          : "-"
 name                     : &name "Diyu Zhou"
-description              : &description "Postdoc at EPFL"
+description              : &description "Assistant professor at PKU"
 url                      : https://zhou-diyu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zhou-diyu.github.io"
@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Diyu Zhou 周迪宇"
-  bio              : "Postdoc at EPFL"
+  bio              : "Assistant professor at Peking University"
   #avatar           : "photo1.jpg"
   avatar           : "photo3.jpg"
   #avatar           : "photo2.jpg"
