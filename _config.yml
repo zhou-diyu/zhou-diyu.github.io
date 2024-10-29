@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Diyu Zhou 周迪宇"
-  bio              : "Assistant professor at Peking University"
+  bio              : "Assistant professor at PKU"
   #avatar           : "photo1.jpg"
   avatar           : "photo3.jpg"
   #avatar           : "photo2.jpg"
@@ -88,7 +88,7 @@ author:
   pubmed           : 
   googlescholar    : 
   dblp             : "https://dblp.org/pid/223/6823.html"
-  email            : "zhoudiyupku@gmail.com"
+  email            : "diyu.zhou@pku.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
