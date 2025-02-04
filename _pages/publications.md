@@ -18,7 +18,7 @@ Network and Distributed System Security Symposium  (NDSS '25) \
 Liren Zhu, Liujia Li, Jianyu Wu, Yiming Yao, Zhan Shi, Jie Zhang, Zhenlin Wang, Xiaolin Wang, Yingwei Luo <ins> Diyu Zhou </ins> \
 31st International Symposium on High-Performance Computer Architecture (HPCA '25) \
 <i class="fas fa-file-pdf" aria-hidden="true"></i> [paper](/files/pivot-hpca25.pdf)
-<i class="fab fa-github"></i> [code](https://github.com/TELOS-syslab/Pivot) 
+&nbsp; <i class="fab fa-github"></i> [code](https://github.com/TELOS-syslab/Pivot) 
 
 
 **Practical Verification of System-Software Components Written in Standard C** \
@@ -31,7 +31,7 @@ Chuandong Li, Sai Sha, Yangqing Zeng, Xiran Yang, Yingwei Luo, Xiaolin Wang, Zhe
 and <ins> Diyu Zhou </ins> \
 2024 USENIX Annual Technical Conference (ATC '24) \
 <i class="fas fa-file-pdf" aria-hidden="true"></i> [paper](/files/hugescope-atc24.pdf)
-<i class="fab fa-github"></i> [code](https://github.com/TELOS-syslab/hugescope-atc24-ae) 
+&nbsp; <i class="fab fa-github"></i> [code](https://github.com/TELOS-syslab/hugescope-atc24-ae) 
 
 **Transparent Multicore Scaling of Single-Threaded Network Functions** \
 Lei Yan, Yueyang Pan, <ins>Diyu Zhou</ins>, George Candea, and Sanidhya Kashyap \
@@ -43,7 +43,7 @@ Lei Yan, Yueyang Pan, <ins>Diyu Zhou</ins>, George Candea, and Sanidhya Kashyap 
 29th ACM Symposium on Operating Systems Principles (SOSP '23) \
 <span style="color:red"> ***Best Paper Award!*** </span> \
 <i class="fas fa-file-pdf" aria-hidden="true"></i> [paper](/files/trio-sosp23.pdf) 
-<i class="fab fa-github"></i> [code](https://github.com/vmexit/trio-sosp23-ae) 
+&nbsp; <i class="fab fa-github"></i> [code](https://github.com/vmexit/trio-sosp23-ae) 
 &nbsp; <i class="fab fa-youtube"></i> [talk](https://www.youtube.com/watch?v=qkMpM7XmYgc)
 &nbsp; <i class="fas fa-file-powerpoint"></i> [slides](/files/trio-sosp23.pptx)
 
@@ -61,7 +61,7 @@ R. Madhava Krishnan, <ins>Diyu Zhou</ins>, Wook-Hee Kim, Sudarsun Kannan, Sanidh
 <ins>Diyu Zhou</ins>, Yuchen Qian, Vishal Gupta, Zhifei Yang, Changwoo Min, and Sanidhya Kashyap \
 16th USENIX Symposium on Operating Systems Design and Implementation (OSDI '22) \
 <i class="fas fa-file-pdf" aria-hidden="true"></i> [paper](/files/odinfs-osdi22.pdf) 
-<i class="fab fa-github"></i> [code](https://github.com/rs3lab/Odinfs) 
+&nbsp; <i class="fab fa-github"></i> [code](https://github.com/rs3lab/Odinfs) 
 &nbsp; <i class="fab fa-youtube"></i> [talk](https://www.youtube.com/watch?v=MRy703zmdL8)
 &nbsp; <i class="fas fa-file-powerpoint"></i> [slides](/files/odinfs-osdi22.pptx)
 
