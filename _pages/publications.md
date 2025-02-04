@@ -9,13 +9,13 @@ author_profile: true
 -->
 
 **Blackbox Fuzzing of Distributed Systems with Multi-Dimensional Inputs and Symmetry-Based Feedback Pruning** \
-Yonghao Zou, Jia-Ju Bai, Zu-Ming Jiang, Ming Zhao, <ins> Diyu Zhou </ins> \
+Yonghao Zou, Jia-Ju Bai, Zu-Ming Jiang, Ming Zhao, and <ins> Diyu Zhou </ins> \
 Network and Distributed System Security Symposium  (NDSS '25) \
 <i class="fas fa-file-pdf" aria-hidden="true"></i> [paper](/files/distfuzz-ndss25.pdf)
 
 
 **Criticality-Aware Instruction-Centric Bandwidth Partitioning for Data Center Applications** \
-Liren Zhu, Liujia Li, Jianyu Wu, Yiming Yao, Zhan Shi, Jie Zhang, Zhenlin Wang, Xiaolin Wang, Yingwei Luo <ins> Diyu Zhou </ins> \
+Liren Zhu, Liujia Li, Jianyu Wu, Yiming Yao, Zhan Shi, Jie Zhang, Zhenlin Wang, Xiaolin Wang, Yingwei Luo, and <ins> Diyu Zhou </ins> \
 31st International Symposium on High-Performance Computer Architecture (HPCA '25) \
 <i class="fas fa-file-pdf" aria-hidden="true"></i> [paper](/files/pivot-hpca25.pdf)
 &nbsp; <i class="fab fa-github"></i> [code](https://github.com/TELOS-syslab/Pivot) 
