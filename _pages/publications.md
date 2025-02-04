@@ -11,12 +11,14 @@ author_profile: true
 **Practical Verification of System-Software Components Written in Standard C** \
 Can Cebeci, Yonghao Zou, <ins> Diyu Zhou </ins>, George Candea, and Clément Pit-Claudel \
 30th ACM Symposium on Operating Systems Principles (SOSP '24)
+<i class="fas fa-file-pdf" aria-hidden="true"></i> [paper](/files/tpot-sosp24.pdf)
 
 **Taming Hot Bloat Under Virtualization with HugeScope** \
 Chuandong Li, Sai Sha, Yangqing Zeng, Xiran Yang, Yingwei Luo, Xiaolin Wang, Zhenlin Wang, 
 and <ins> Diyu Zhou </ins> \
 2024 USENIX Annual Technical Conference (ATC '24) \
 <i class="fas fa-file-pdf" aria-hidden="true"></i> [paper](/files/hugescope-atc24.pdf)
+<i class="fab fa-github"></i> [code](https://github.com/TELOS-syslab/hugescope-atc24-ae) 
 
 **Transparent Multicore Scaling of Single-Threaded Network Functions** \
 Lei Yan, Yueyang Pan, <ins>Diyu Zhou</ins>, George Candea, and Sanidhya Kashyap \
@@ -46,6 +48,7 @@ R. Madhava Krishnan, <ins>Diyu Zhou</ins>, Wook-Hee Kim, Sudarsun Kannan, Sanidh
 <ins>Diyu Zhou</ins>, Yuchen Qian, Vishal Gupta, Zhifei Yang, Changwoo Min, and Sanidhya Kashyap \
 16th USENIX Symposium on Operating Systems Design and Implementation (OSDI '22) \
 <i class="fas fa-file-pdf" aria-hidden="true"></i> [paper](/files/odinfs-osdi22.pdf) 
+<i class="fab fa-github"></i> [code](https://github.com/rs3lab/Odinfs) 
 &nbsp; <i class="fab fa-youtube"></i> [talk](https://www.youtube.com/watch?v=MRy703zmdL8)
 &nbsp; <i class="fas fa-file-powerpoint"></i> [slides](/files/odinfs-osdi22.pptx)
 
