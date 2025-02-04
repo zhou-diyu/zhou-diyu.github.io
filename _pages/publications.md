@@ -8,9 +8,22 @@ author_profile: true
 \* denotes equal contribution
 -->
 
+**Blackbox Fuzzing of Distributed Systems with Multi-Dimensional Inputs and Symmetry-Based Feedback Pruning** \
+Yonghao Zou, Jia-Ju Bai, Zu-Ming Jiang, Ming Zhao, <ins> Diyu Zhou </ins> \
+Network and Distributed System Security Symposium  (NDSS '25) \
+<i class="fas fa-file-pdf" aria-hidden="true"></i> [paper](/files/distfuzz-ndss25.pdf)
+
+
+**Criticality-Aware Instruction-Centric Bandwidth Partitioning for Data Center Applications** \
+Liren Zhu, Liujia Li, Jianyu Wu, Yiming Yao, Zhan Shi, Jie Zhang, Zhenlin Wang, Xiaolin Wang, Yingwei Luo <ins> Diyu Zhou </ins> \
+31st International Symposium on High-Performance Computer Architecture (HPCA '25) \
+<i class="fas fa-file-pdf" aria-hidden="true"></i> [paper](/files/pivot-hpca25.pdf)
+<i class="fab fa-github"></i> [code](https://github.com/TELOS-syslab/Pivot) 
+
+
 **Practical Verification of System-Software Components Written in Standard C** \
 Can Cebeci, Yonghao Zou, <ins> Diyu Zhou </ins>, George Candea, and Clément Pit-Claudel \
-30th ACM Symposium on Operating Systems Principles (SOSP '24)
+30th ACM Symposium on Operating Systems Principles (SOSP '24) \
 <i class="fas fa-file-pdf" aria-hidden="true"></i> [paper](/files/tpot-sosp24.pdf)
 
 **Taming Hot Bloat Under Virtualization with HugeScope** \
