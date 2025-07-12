@@ -10,12 +10,12 @@ author_profile: true
 
 **CortenMM: Efficient Memory Management with Strong Correctness Guarantee** \
 Junyang Zhang, Xiangcan Xu, Yonghao Zou, Zhe Tang, Xinyi Wan, Kang Hu, Siyuan Wang, Wenbo Xu, Di Wang, Hao Chen, Hongliang Tian, Lin Huang, Shoumeng Yan, Yuval Tamir, Yingwei Luo, Xiaolin Wang, Huashan Yu, Zhenlin Wang, and <ins>Diyu Zhou</ins> \
-31st ACM Symposium on Operating Systems Principles (SOSP '2025)
+31st ACM Symposium on Operating Systems Principles (SOSP '25)
 
 
 **Aeolia: Fast and Secure Userspace Interrupt-Based Storage Stack** \
 Chuandong Li, Ran Yi, Zonghao Zhang, Jing Liu, Changwoo Min, Yingwei Luo, Xiaolin Wang, Zhenlin Wang, and <ins>Diyu Zhou</ins> \
-31st ACM Symposium on Operating Systems Principles (SOSP '2025)
+31st ACM Symposium on Operating Systems Principles (SOSP '25)
 
 **SPDK+: Low Latency or High Power Efficiency? We Take Both** \
 Endian Li, Shushu Yi, Li Peng, Qiao Li, <ins>Diyu Zhou</ins>, Zhenlin Wang, Xiaolin Wang, Bo Mao, Yingwei Luo, Ke Zhou, and Jie Zhang \
