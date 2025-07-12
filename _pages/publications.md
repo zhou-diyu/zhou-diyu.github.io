@@ -8,6 +8,28 @@ author_profile: true
 \* denotes equal contribution
 -->
 
+**CortenMM: Efficient Memory Management with Strong Correctness Guarantee** \
+Junyang Zhang, Xiangcan Xu, Yonghao Zou, Zhe Tang, Xinyi Wan, Kang Hu, Siyuan Wang, Wenbo Xu, Di Wang, Hao Chen, Hongliang Tian, Lin Huang, Shoumeng Yan, Yuval Tamir, Yingwei Luo, Xiaolin Wang, Huashan Yu, Zhenlin Wang, and <ins>Diyu Zhou</ins> \
+31st ACM Symposium on Operating Systems Principles (SOSP '2025)
+
+
+**Aeolia: Fast and Secure Userspace Interrupt-Based Storage Stack** \
+Chuandong Li, Ran Yi, Zonghao Zhang, Jing Liu, Changwoo Min, Yingwei Luo, Xiaolin Wang, Zhenlin Wang, and <ins>Diyu Zhou</ins> \
+31st ACM Symposium on Operating Systems Principles (SOSP '2025)
+
+**SPDK+: Low Latency or High Power Efficiency? We Take Both** \
+Endian Li, Shushu Yi, Li Peng, Qiao Li, <ins>Diyu Zhou</ins>, Zhenlin Wang, Xiaolin Wang, Bo Mao, Yingwei Luo, Ke Zhou, and Jie Zhang \
+17th ACM Workshop on Hot Topics in Storage and File Systems (HotStorage '25) \
+<i class="fas fa-file-pdf" aria-hidden="true"></i> [paper](/files/spdkp-hotstorage25.pdf)
+
+
+**ASTERINAS: A Linux ABI-Compatible, Rust-Based Framekernel OS with a Small and Sound TCB** \
+Yuke Peng, Hongliang Tian, Junyang Zhang, Ruihan Li, Chengjun Chen, Jianfeng Jiang, Jinyi Xian, Xiaolin Wang, Chenren Xu, 
+<ins>Diyu Zhou</ins>, Yingwei Luo, Shoumeng Yan, and Yinqian Zhang \
+2025 USENIX Annual Technical Conference (ATC '25) \
+<i class="fas fa-file-pdf" aria-hidden="true"></i> [paper](/files/asterinas-atc25.pdf)
+
+
 **Blackbox Fuzzing of Distributed Systems with Multi-Dimensional Inputs and Symmetry-Based Feedback Pruning** \
 Yonghao Zou, Jia-Ju Bai, Zu-Ming Jiang, Ming Zhao, and <ins> Diyu Zhou </ins> \
 Network and Distributed System Security Symposium  (NDSS '25) \
