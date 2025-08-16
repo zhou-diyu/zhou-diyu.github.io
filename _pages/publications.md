@@ -8,6 +8,10 @@ author_profile: true
 \* denotes equal contribution
 -->
 
+**Complete Automated Migration of I/O APIs with Static Analysis** \
+Shangyu Li, Zhaoyang Zhang, Sizhe Zhong, <ins>Diyu Zhou</ins>, and Jiasi Shen \
+2025 Annual ACM Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA '25)
+
 **CortenMM: Efficient Memory Management with Strong Correctness Guarantee** \
 Junyang Zhang, Xiangcan Xu, Yonghao Zou, Zhe Tang, Xinyi Wan, Kang Hu, Siyuan Wang, Wenbo Xu, Di Wang, Hao Chen, Hongliang Tian, Lin Huang, Shoumeng Yan, Yuval Tamir, Yingwei Luo, Xiaolin Wang, Huashan Yu, Zhenlin Wang, and <ins>Diyu Zhou</ins> \
 31st ACM Symposium on Operating Systems Principles (SOSP '25)
