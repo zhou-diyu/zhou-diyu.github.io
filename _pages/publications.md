@@ -14,7 +14,7 @@ Shangyu Li, Zhaoyang Zhang, Sizhe Zhong, <ins>Diyu Zhou</ins>, and Jiasi Shen \
 <i class="fas fa-file-pdf" aria-hidden="true"></i> [paper](/files/sprout-oopsla25.pdf) 
 
 **CortenMM: Efficient Memory Management with Strong Correctness Guarantees** \
-Junyang Zhang, Xiangcan Xu, Yonghao Zou, Zhe Tang, Xinyi Wan, Kang Hu, Siyuan Wang, Wenbo Xu, Di Wang, Hao Chen, Hongliang Tian, Lin Huang, Shoumeng Yan, Yuval Tamir, Yingwei Luo, Xiaolin Wang, Huashan Yu, Zhenlin Wang, and <ins>Diyu Zhou</ins> \
+Junyang Zhang, Xiangcan Xu, Yonghao Zou, Zhe Tang, Xinyi Wan, Kang Hu, Siyuan Wang, Wenbo Xu, Di Wang, Hao Chen, Lin Huang, Shoumeng Yan, Yuval Tamir, Yingwei Luo, Xiaolin Wang, Huashan Yu, Zhenlin Wang, Hongliang Tian, and <ins>Diyu Zhou</ins> \
 31st ACM Symposium on Operating Systems Principles (SOSP '25) \
 <span style="color:red"> ***Best Paper Award!*** </span> \
 <i class="fas fa-file-pdf" aria-hidden="true"></i> [paper](/files/cortenmm-sosp25.pdf) 
