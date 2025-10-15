@@ -8,18 +8,26 @@ author_profile: true
 \* denotes equal contribution
 -->
 
-**Complete Automated Migration of I/O APIs with Static Analysis** \
+**A Sound Static Analysis Approach to I/O API Migration** \
 Shangyu Li, Zhaoyang Zhang, Sizhe Zhong, <ins>Diyu Zhou</ins>, and Jiasi Shen \
-2025 Annual ACM Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA '25)
+2025 Annual ACM Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA '25) \
+<i class="fas fa-file-pdf" aria-hidden="true"></i> [paper](/files/sprout-oopsla25.pdf) 
 
-**CortenMM: Efficient Memory Management with Strong Correctness Guarantee** \
+**CortenMM: Efficient Memory Management with Strong Correctness Guarantees** \
 Junyang Zhang, Xiangcan Xu, Yonghao Zou, Zhe Tang, Xinyi Wan, Kang Hu, Siyuan Wang, Wenbo Xu, Di Wang, Hao Chen, Hongliang Tian, Lin Huang, Shoumeng Yan, Yuval Tamir, Yingwei Luo, Xiaolin Wang, Huashan Yu, Zhenlin Wang, and <ins>Diyu Zhou</ins> \
 31st ACM Symposium on Operating Systems Principles (SOSP '25)
+<span style="color:red"> ***Best Paper Award!*** </span> \
+<i class="fas fa-file-pdf" aria-hidden="true"></i> [paper](/files/cortenmm-sosp25.pdf) 
+&nbsp; <i class="fab fa-github"></i> [code](https://github.com/TELOS-syslab/CortenMM-Artifact) 
 
 
-**Aeolia: Fast and Secure Userspace Interrupt-Based Storage Stack** \
+
+**Aeolia: A Fast and Secure Userspace Interrupt-Based Storage Stack** \
 Chuandong Li, Ran Yi, Zonghao Zhang, Jing Liu, Changwoo Min, Yingwei Luo, Xiaolin Wang, Zhenlin Wang, and <ins>Diyu Zhou</ins> \
-31st ACM Symposium on Operating Systems Principles (SOSP '25)
+31st ACM Symposium on Operating Systems Principles (SOSP '25) \
+<i class="fas fa-file-pdf" aria-hidden="true"></i> [paper](/files/aeolia-sosp25.pdf) 
+&nbsp; <i class="fab fa-github"></i> [code](https://github.com/TELOS-syslab/Aeolia) 
+
 
 **SPDK+: Low Latency or High Power Efficiency? We Take Both** \
 Endian Li, Shushu Yi, Li Peng, Qiao Li, <ins>Diyu Zhou</ins>, Zhenlin Wang, Xiaolin Wang, Bo Mao, Yingwei Luo, Ke Zhou, and Jie Zhang \
